@@ -6,7 +6,7 @@ I am Nalin Angrish, a Student, Musician, and an Enthusiastic Coder. In the prese
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=Nalin-Angrish&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-Angrish&layout=compact&theme=radical&langs_count=10&hide=html,css" />
     <br />
-    <img src="https://github-profile-trophy.vercel.app/?username=Nalin-Angrish&theme=monokai&title=Followers,PullRequest,Repositories,Stars,Commits&column=5&no-bg=true" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=Nalin-Angrish&theme=monokai&title=Followers,PullRequest,Repositories,Stars,Commits&column=5" /> 
 </p>
 
 ## What I Do
