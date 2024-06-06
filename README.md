@@ -13,8 +13,10 @@ I am Nalin Angrish, a Student, Musician, and an Enthusiastic Coder. In the prese
 I am a Mechanical Engineering student at IIT Ropar, and I learn to code and build some real-life software projects (some non-software projects soon too!). Want to see some of my projects? Visit [my website](https://www.nalinangrish.me/).  
 
 ## My Favourite creation
-[IScan - The Indian Scanner App](http://www.nalinangrish.me/apps/iscan)  
-This is a purely Indian Scanner app that provides you with an easy to use interface, quick usage and completely safe way of scanning as PDFs, Saving and Sharing them. This app turns your Android device into a fast, lightweight and portable document scanner. This application allows you to easily scan documents and share them using your preferred mode of file sharing.  
+[IdeaGenius](https://github.com/Nalin-Angrish/IdeaGenius)  
+IdeaGenius is a platform for seamless Market Research Assistance and Innovative Ideation. It empowers users with diverse information collection and organization, generating unique ideas from aggregated research.  
+
+I made this project along with my seniors [Parth Jain](https://github.com/Parth-Jain-2002), [Tanisha Daharwal](https://github.com/tanishadaharwal), [Prashant Singh](https://github.com/prashant531) and [Devanshu Dhawan](https://github.com/TheProBro), for the Inter IIT Tech Meet 12.0 held at IIT Madras in December, 2023.
 
 ## Connect with me
 - <img src="https://raw.githubusercontent.com/Nalin-Angrish/Nalin-Angrish/master/icons/linkedin.svg" height=15> LinkedIn: [Nalin Angrish](https://www.linkedin.com/in/nalin-angrish)
