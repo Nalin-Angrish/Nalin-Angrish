@@ -13,7 +13,7 @@ I'm Nalin Angrish, a dedicated student passionate about learning, coding, softwa
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=Nalin-Angrish&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-Angrish&layout=compact&theme=radical&langs_count=10&hide=html,css" />
     <br />
-    <img height=150 src="https://nirzak-streak-stats.vercel.app/?user=Nalin-Angrish&theme=radical&hide_border=false" /><br/>
+    <img height=200 src="https://nirzak-streak-stats.vercel.app/?user=Nalin-Angrish&theme=radical&hide_border=false" /><br/>
 </p>
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Nalin-Angrish&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" /><br/>
@@ -22,7 +22,7 @@ I'm Nalin Angrish, a dedicated student passionate about learning, coding, softwa
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nalin-Angrish&theme=radical&title=Commits,PullRequest,Repositories,Followers,MultiLanguage,Stars&column=6" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=Nalin-Angrish&theme=radical&title=Commits,PullRequest,Repositories,Followers,MultiLanguage,Stars&column=6&count_private=true" /> 
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
