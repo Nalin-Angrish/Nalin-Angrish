@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nalin Angrish
-I'm Nalin Angrish, a dedicated student passionate about learning, coding, software development and robotics. <br><br>Driven by my curiosity, I constantly strive to expand my knowledge and stay up to date with the ever-evolving world of technology. From software to hardware, front-end development to back-end systems, I eagerly explore all aspects of technology to enhance my skills and broaden my horizons. <br><br>With a deep passion for robotics and software development, I've honed my abilities in these fields, applying my expertise in programming languages like Python, JavaScript, C++, and beyond to craft innovative robotic and software solutions that bridge the gap between the digital and physical worlds. <br><br>Whether it's coding, software development, or robotics, my goal is to bring ideas to life by creating seamless and visually stunning experiences.
+I'm Nalin Angrish, a dedicated student passionate about learning, coding, software development and robotics. <br><br>Driven by my curiosity, I constantly strive to expand my knowledge and stay up to date with the ever-evolving world of technology. From software to hardware, front-end development to back-end systems, I eagerly explore all aspects of technology to enhance my skills and broaden my horizons. <br><br>With a deep passion for robotics and software development, I've honed my abilities in these fields, applying my expertise in programming languages like Python, JavaScript, C++, and beyond to craft innovative robotic and software solutions that bridge the gap between the digital and physical worlds. <br><br>Whether it's coding, software development, or robotics, my primary goal is to bring great ideas to life.
 
 
 ## 🌐 Socials:
@@ -27,13 +27,8 @@ I'm Nalin Angrish, a dedicated student passionate about learning, coding, softwa
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## What I Do
-I am a Mechanical Engineering student at IIT Ropar, and I learn to code and build some real-life software projects (some non-software projects soon too!). Want to see some of my projects? Visit [my website](https://www.nalinangrish.me/).  
+I am a Mechanical Engineering student at IIT Ropar, with a strong interest in Computer Science, Artificial Intelligence, Robotics and Aviation. Want to see some of my projects? Visit [my website](https://www.nalinangrish.me/) or click on the **Repositories** tab.  
 
-## My Favourite creation
-[IdeaGenius](https://github.com/Nalin-Angrish/IdeaGenius)  
-IdeaGenius is a platform for seamless Market Research Assistance and Innovative Ideation. It empowers users with diverse information collection and organization, generating unique ideas from aggregated research.  
-
-I made this project along with my seniors [Parth Jain](https://github.com/Parth-Jain-2002), [Tanisha Daharwal](https://github.com/tanishadaharwal), [Prashant Singh](https://github.com/prashant531) and [Devanshu Dhawan](https://github.com/TheProBro), for the Inter IIT Tech Meet 12.0 held at IIT Madras in December, 2023.
 
 <hr>
 <p align="center">
