@@ -1,17 +1,23 @@
 # Hi 👋, I'm Nalin Angrish
-I'm Nalin Angrish, a dedicated student passionate about learning, coding, software development and robotics. <br><br>Driven by my curiosity, I constantly strive to expand my knowledge and stay up to date with the ever-evolving world of technology. From software to hardware, front-end development to back-end systems, I eagerly explore all aspects of technology to enhance my skills and broaden my horizons. <br><br>With a deep passion for robotics and software development, I've honed my abilities in these fields, applying my expertise in programming languages like Python, JavaScript, C++, and beyond to craft innovative robotic and software solutions that bridge the gap between the digital and physical worlds. <br><br>Whether it's coding, software development, or robotics, my primary goal is to bring great ideas to life.
+I’m Nalin Angrish, a developer and robotics enthusiast focused on systems software, backend engineering, and robotic system design.
+
+I enjoy working close to the metal - designing reliable backend systems, writing efficient low-level and systems-oriented code, and integrating software with real-world hardware. My interests sit at the intersection of distributed systems, robotics, and embedded software, where performance, correctness, and design trade-offs actually matter.
+
+I primarily work with Python, C++, and JavaScript, using them to build scalable backend services, control systems, and robotic pipelines that bridge software and physical systems. From designing control logic and communication layers to building backend infrastructure that supports intelligent systems, I like turning complex ideas into clean, working implementations.
+
+I use GitHub as a place to experiment, build, and document projects that reflect how I think about systems, design, and engineering problems.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/nalin_angrish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/nalin-angrish) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/nalinangrish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nalin@nalinangrish.me) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/nalin_angrish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/nalin-angrish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nalin@nalinangrish.me) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/gazebo-%23F58113.svg?style=for-the-badge&logo=gazebo&logoColor=white)
 # 📊 GitHub Stats:
 
 <p align="center">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=Nalin-Angrish&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-Angrish&layout=compact&theme=radical&langs_count=10&hide=html,css" />
+    <img height=150 src="https://github-readme-stats-tau-rosy.vercel.app/api?username=Nalin-Angrish&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
+    <img height=150 src="https://github-readme-stats-tau-rosy.vercel.app/api/top-langs/?username=Nalin-Angrish&layout=compact&theme=radical&langs_count=10&hide=html,css" />
     <br />
     <img height=200 src="https://nirzak-streak-stats.vercel.app/?user=Nalin-Angrish&theme=radical&hide_border=false" /><br/>
 </p>
@@ -22,7 +28,7 @@ I'm Nalin Angrish, a dedicated student passionate about learning, coding, softwa
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nalin-Angrish&theme=radical&title=Commits,PullRequest,Repositories,Followers,MultiLanguage,Stars&column=6&count_private=true" /> 
+    <img src="https://github-profile-trophy-smoky.vercel.app/?username=Nalin-Angrish&theme=radical&title=Commits,PullRequest,Repositories,Followers,MultiLanguage,Stars&column=6&count_private=true" /> 
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
