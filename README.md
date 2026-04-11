@@ -36,7 +36,7 @@ I use GitHub as a place to experiment, build, and document projects that reflect
     <img height=150 src="https://github-readme-stats-tau-rosy.vercel.app/api?username=Nalin-Angrish&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
     <img height=150 src="https://github-readme-stats-tau-rosy.vercel.app/api/top-langs/?username=Nalin-Angrish&layout=compact&theme=radical&langs_count=10&hide=html,css" />
     <br />
-    <img height=200 src="https://nirzak-streak-stats.vercel.app/?user=Nalin-Angrish&theme=radical&hide_border=false" /><br/>
+    <img height=200 src="https://streak-stats.demolab.com/?user=Nalin-Angrish&theme=radical&hide_border=false" /><br/>
 </p>
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Nalin-Angrish&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" /><br/>
