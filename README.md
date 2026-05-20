@@ -1,11 +1,11 @@
 # Hi 👋, I'm Nalin Angrish
-I’m Nalin Angrish, a developer and robotics enthusiast focused on systems software, backend engineering, and robotic system design.
-
-I enjoy working close to the metal - designing reliable backend systems, writing efficient low-level and systems-oriented code, and integrating software with real-world hardware. My interests sit at the intersection of distributed systems, robotics, and embedded software, where performance, correctness, and design trade-offs actually matter.
-
-I primarily work with Python, C++, and JavaScript, using them to build scalable backend services, control systems, and robotic pipelines that bridge software and physical systems. From designing control logic and communication layers to building backend infrastructure that supports intelligent systems, I like turning complex ideas into clean, working implementations.
-
-I use GitHub as a place to experiment, build, and document projects that reflect how I think about systems, design, and engineering problems.
+I build systems software - the kind that sits close to the metal and has no room for failure.
+ 
+As a student engineer at IIT Ropar, I'm already working at the deep end: I'm currently an AI Infra Intern at Nava, where I'm building components of a smart infrastructure platform that autonomously manages the entire cloud stack - with the goal of self-sustaining resilience at scale.
+ 
+I work in Go, Python and C++. I think in systems. I care about the decisions that don't show up in the diff but determine whether a system holds together under pressure.
+ 
+I also build drones and robots on the side - because I've always preferred problems where the software has real consequences.
 
 
 ## 🌐 Socials:
@@ -15,10 +15,10 @@ I use GitHub as a place to experiment, build, and document projects that reflect
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nalinangrish.me/)
 
 # 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Embedded](https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -47,12 +47,6 @@ I use GitHub as a place to experiment, build, and document projects that reflect
 <p align="center">
     <img src="https://github-profile-trophy-smoky.vercel.app/?username=Nalin-Angrish&theme=radical&title=Commits,PullRequest,Repositories,Followers,MultiLanguage,Stars&column=6&count_private=true" /> 
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## What I Do
-I am a Mechanical Engineering student at IIT Ropar, with a strong interest in Computer Science, Artificial Intelligence, Robotics and Aviation. Want to see some of my projects? Visit [my website](https://www.nalinangrish.me/) or click on the **Repositories** tab.  
-
-
 <hr>
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
