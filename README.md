@@ -33,22 +33,7 @@ I also build drones and robots on the side - because I've always preferred probl
 # 📊 GitHub Stats:
 
 <p align="center">
-    <img height=150 src="https://github-readme-stats-tau-rosy.vercel.app/api?username=Nalin-Angrish&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
-    <img height=150 src="https://github-readme-stats-tau-rosy.vercel.app/api/top-langs/?username=Nalin-Angrish&layout=compact&theme=radical&langs_count=10&hide=html,css" />
-    <br />
-    <img height=200 src="https://streak-stats.demolab.com/?user=Nalin-Angrish&theme=radical&hide_border=false" /><br/>
+![Stats](profile/stats.svg)
+![Top Languages](profile/top-langs.svg)
+![Streak](https://streak-stats.demolab.com/?user=Nalin-Angrish&theme=radical&hide_border=false)
 </p>
-<!-- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nalin-Angrish&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-Angrish&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_ignore=html,css" /><br/>
-</p> -->  
-
-## 🏆 GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy-smoky.vercel.app/?username=Nalin-Angrish&theme=radical&title=Commits,PullRequest,Repositories,Followers,MultiLanguage,Stars&column=6&count_private=true" /> 
-</p>
-<hr>
-<p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
-</p>
-
