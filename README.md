@@ -35,5 +35,5 @@ I also build drones and robots on the side - because I've always preferred probl
 <p align="center">
 ![Stats](profile/stats.svg)
 ![Top Languages](profile/top-langs.svg)
-![Streak](https://streak-stats.demolab.com/?user=Nalin-Angrish&theme=radical&hide_border=false)
+<img src="https://streak-stats.demolab.com/?user=Nalin-Angrish&theme=radical&hide_border=false" alt="Streak Stats" />
 </p>
