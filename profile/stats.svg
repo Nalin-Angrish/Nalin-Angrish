@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nalin Angrish&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  : 1422, Total PRs: 130, Total Issues: 87, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 30, Total Commits  : 1419, Total PRs: 130, Total Issues: 87, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 103.6405954239533;
+        stroke-dashoffset: 103.67313577954502;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
